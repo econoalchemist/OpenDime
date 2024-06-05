@@ -3,7 +3,9 @@ Now you can use your favorite mobile wallet to scan the QR code & load some sats
 
 Let's review what we've done so far: Loaded random bytes, generated private key & corresponding address, then deposited some BTC. The private key never leaves the @OPENDIME, we have essentially secured 50k sats on a small device that can be easily & discreetly transferred.
 
-![](assets/8.jpg)
+<p align="center">
+<img width="250" src="assets/8.jpg">
+</p>
 
 That's pretty powerful when you think about it. Swap @OPENDIME with your friends to "coinjoin", pay someone like you would with cash, transport life-changing amounts of BTC undetected across borders. The world is your oyster.
 
